@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "poblados_cbima",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "ET_ID": 2266, "NOMBRE": "LINDA VISTA", "CATEGORIA": "B", "HOJA": "ABRA", "X": 492839.0268, "Y": 1096251.7246000001, "OID_": 0, "Name": "Linda Vista", "FolderPath": null, "SymbolID": 0, "AltMode": 0, "Base": 0.0, "Snippet": null, "PopupInfo": null, "HasLabel": 0, "LabelID": 0 }, "geometry": { "type": "Point", "coordinates": [ -84.065303341425874, 9.914163354260731, 0.0 ] } },
+{ "type": "Feature", "properties": { "ET_ID": 2418, "NOMBRE": "BARRIO CUBA", "CATEGORIA": "P3", "HOJA": "ABRA", "X": 489990.0104, "Y": 1097231.9056, "OID_": 0, "Name": "Barrio Cuba", "FolderPath": null, "SymbolID": 0, "AltMode": 0, "Base": 0.0, "Snippet": null, "PopupInfo": null, "HasLabel": 0, "LabelID": 0 }, "geometry": { "type": "Point", "coordinates": [ -84.091286921038815, 9.923019985424034, 0.0 ] } },
+{ "type": "Feature", "properties": { "ET_ID": 0, "NOMBRE": "HATILLO 2", "CATEGORIA": null, "HOJA": null, "X": 0.0, "Y": 0.0, "OID_": 0, "Name": "Hatillo 2", "FolderPath": "CBIMA2.kml\/CBIMA", "SymbolID": 0, "AltMode": -1, "Base": 0.0, "Snippet": null, "PopupInfo": null, "HasLabel": -1, "LabelID": 0 }, "geometry": { "type": "Point", "coordinates": [ -84.102612568999987, 9.921324686000052, 0.0 ] } },
+{ "type": "Feature", "properties": { "ET_ID": 0, "NOMBRE": "Los Llanos", "CATEGORIA": null, "HOJA": null, "X": 0.0, "Y": 0.0, "OID_": 0, "Name": "Los Llanos", "FolderPath": null, "SymbolID": 0, "AltMode": 0, "Base": 0.0, "Snippet": null, "PopupInfo": null, "HasLabel": 0, "LabelID": 0 }, "geometry": { "type": "Point", "coordinates": [ -84.0024451398412, 9.925805312238152, 0.0 ] } }
+]
+}
